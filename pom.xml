@@ -82,7 +82,7 @@
 
 				<configuration>
 					<verbose>true</verbose>
-					<!--authConfig> <username>TODO (optional): User Name</username> </authConfig -->
+					<authConfig> <username>weymuth</username> </authConfig>
 					<images>
 						<image>
 							<name>m154-crm-web</name>
