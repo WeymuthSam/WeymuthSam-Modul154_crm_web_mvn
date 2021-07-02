@@ -38,7 +38,7 @@
 			<artifactId>slf4j-simple</artifactId>
 			<version>1.8.0-beta4</version>
 		</dependency>
-			<dependency>
+		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-api</artifactId>
 			<version>1.8.0-beta4</version>
@@ -82,7 +82,10 @@
 
 				<configuration>
 					<verbose>true</verbose>
-					<authConfig> <username>weymuth</username> <password>f5c39a0e-1a78-4c59-9c89-c28aa9810d47</password></authConfig>
+					<authConfig>
+						<username>weymuth</username>
+						<password>@Bretzwil4207</password>
+					</authConfig>
 					<images>
 						<image>
 							<name>weymuth/m154-crm-web</name>
