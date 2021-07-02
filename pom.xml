@@ -82,7 +82,7 @@
 
 				<configuration>
 					<verbose>true</verbose>
-					<authConfig> <username>weymuth</username> </authConfig>
+					<authConfig> <username>weymuth</username> <password>f5c39a0e-1a78-4c59-9c89-c28aa9810d47</password></authConfig>
 					<images>
 						<image>
 							<name>m154-crm-web</name>
